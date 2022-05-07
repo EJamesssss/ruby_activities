@@ -1,15 +1,15 @@
 # solution 1
 
-# [1,2,3,4,5,6,7,8,9,10].each { |n| puts "#{n}"}
+[1,2,3,4,5,6,7,8,9,10].each { |n| puts "#{n}"}
 
 # solution 2
 
-# h = {"a"=>1,"b"=>2,"c"=>3,"d" =>4}
+h = {"a"=>1,"b"=>2,"c"=>3,"d" =>4}
 
-# h["e"] = 5
+h["e"] = 5
 
-# puts h["b"]
-# puts h
+puts h["b"]
+puts h
 
 #solution 3
 
